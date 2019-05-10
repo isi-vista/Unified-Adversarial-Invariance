@@ -33,9 +33,9 @@ The code has been tested with the versions of these dependencies as specified ab
 2. Clone this repository
 
 3. Update the PYTHONPATH environment variable to include this repository. For Linux/MacOS users, the following can be added to the `~/.bashrc` file:
-```bash
-export PYTHONPATH=/path/to/Unified-Adversarial-Invariance:$PYTHONPATH
-```
+    ```bash
+    export PYTHONPATH=/path/to/Unified-Adversarial-Invariance:$PYTHONPATH
+    ```
 4. Training examples
 
     <ins>Nuisance</ins>:
